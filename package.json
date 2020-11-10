@@ -1,0 +1,27 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a node learning project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashant0918/git-test.git"
+  },
+  "keywords": [
+    "prashant@0918"
+  ],
+  "author": "prashant_tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashant0918/git-test/issues"
+  },
+  "homepage": "https://github.com/prashant0918/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
